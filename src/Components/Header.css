@@ -1,0 +1,9 @@
+.Header-Container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Header-Container{
+    color:white;
+    font-size:2.5rem;
+}
